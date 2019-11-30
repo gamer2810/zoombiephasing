@@ -1,0 +1,25 @@
+{
+  "name": "zoombiephasing",
+  "version": "0.0.1",
+  "description": "Testing project",
+  "main": "index.html",
+  "dependencies": {
+    "http-server": "^0.12.0",
+    "phaser": "^3.21.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -a localhost -p 8000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamer2810/zoombiephasing.git"
+  },
+  "author": "Kha3K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gamer2810/zoombiephasing/issues"
+  },
+  "homepage": "https://github.com/gamer2810/zoombiephasing#readme"
+}
